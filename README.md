@@ -13,3 +13,4 @@ thanks.
 1. arm_ble_adv_20261111.zip  exe 
 2. nimble_20261111_advok.rar  adv
 3. arm_nimble_scan_20261115.rar scan
+4. nimble_20261121_heart_ok.rar heartbeat from nordic dk,all with ble protocol stack
