@@ -14,3 +14,4 @@ thanks.
 2. nimble_20261111_advok.rar  adv
 3. arm_nimble_scan_20261115.rar scan
 4. nimble_20261121_heart_ok.rar heartbeat from nordic dk,all with ble protocol stack
+5. nimble-linux-20261121.zip exe (get heartbeat data with ble protocol stack)
